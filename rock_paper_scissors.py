@@ -26,9 +26,9 @@ if (player_move==rock and computer_move==scissors) or \
         (player_move==scissors and computer_move==paper):
     print("You win!")
 elif player_move==computer_move:
-    print('Draw!')
+    print('Draw')
 else:
-    print("You lose!")
+    print("You lose")
 
 
 
